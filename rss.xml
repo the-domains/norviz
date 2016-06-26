@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[norviz]]></title>
         <description><![CDATA[norviz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/norviz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 19:46:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 19:50:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/norviz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53c1e8b-976f-4870-abf7-73bc70b94e59.jpg">]]></description>
-            <link>undefined9e2ff754-867b-4ff9-8d7b-21a8cb5fa641/index.html</link>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14590daf2a2f4dd8ec595b996600e522/croprotate.jpg?cropheight=1665&cropwidth=2500&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd53c1e8b-976f-4870-abf7-73bc70b94e59.jpg&x=0&y=0" alt="" title="">]]></description>
+            <link>https://thegrid.ai/norviz/9e2ff754-867b-4ff9-8d7b-21a8cb5fa641/index.html</link>
             <guid isPermaLink="false">9e2ff754-867b-4ff9-8d7b-21a8cb5fa641</guid>
-            <pubDate>Sun, 26 Jun 2016 19:45:52 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 19:50:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
