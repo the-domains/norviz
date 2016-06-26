@@ -2,6 +2,7 @@ name: norviz
 favicon: null
 layout_spectrum: 0.5062445527873933
 typography_spectrum: 0.5228602241259068
+title: NORVIZ
 cta:
   domain: null
   bucket: null
